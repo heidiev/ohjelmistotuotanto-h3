@@ -8,3 +8,5 @@
 
 # Listaa jokaisen käyttötapaukseen liittyen mitä ruuduulla näkyy?
 - Ruudulla näkyy koulun pohjapiirustus.
+
+Kokeilu, osa 3
