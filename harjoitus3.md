@@ -1,27 +1,26 @@
-<<<<<<< HEAD
-5)
+Harjoitus 3:
+
 	i. Sis‰tilapaikannuksen k‰yttˆtapaukset: 
 		-Kirjojen lainaus kirjastosta automaattisesti
 	ii. 
 		-Voi lainata kirjoja ilman kirjastokorttia tai erillist‰ lainaustapahtumaa. Kaikille koulussa asioiville.
 	iii.
 		-Ruudulla n‰kyy "laina onnistui" teksti
-=======
-5.
 
-i) Kuinka sis√§tilapaikannusta voisi hy√∂dynt√§√§ Metropolian Lepp√§vaaran kampuksella?
+---
+		
+i) Kuinka sis‰tilapaikannusta voisi hyˆdynt‰‰ Metropolian Lepp‰vaaran kampuksella?
 
-- viihdytt√§v√§n√§ ajanvietteen√§
+- viihdytt‰v‰n‰ ajanvietteen‰
 - opettavaisena kokemuksena
 
-ii) Mitk√§ ovat j√§rjestelm√§n keskeiset k√§ytt√∂tapaukset?
+ii) Mitk‰ ovat j‰rjestelm‰n keskeiset k‰yttˆtapaukset?
 
-- uudet opiskelijat oppivat tuntemaan kouluymp√§rist√∂n
-- vanhat opiskelijat viett√§v√§t vapaa-aikaansa
-- opettaja haluaa l√∂yt√§√§ tietyn paikan sijainnin nopeasti
+- uudet opiskelijat oppivat tuntemaan kouluymp‰ristˆn
+- vanhat opiskelijat viett‰v‰t vapaa-aikaansa
+- opettaja haluaa lˆyt‰‰ tietyn paikan sijainnin nopeasti
 
 
-iii) Listaa jokaiseen k√§ytt√∂tapaukseen liittyen mit√§ ruudulla n√§kyy?
+iii) Listaa jokaiseen k‰yttˆtapaukseen liittyen mit‰ ruudulla n‰kyy?
 
-- koulun pohjapiirros ylh√§√§lt√§ kuvattuna
->>>>>>> 92122e6ddb9f4cb735bbd2c207e588c57a4399ac
+- koulun pohjapiirros ylh‰‰lt‰ kuvattuna
