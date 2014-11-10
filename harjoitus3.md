@@ -1,4 +1,5 @@
 5)
-	i. Sisätilapaikannuksen käyttötapaukset
-	ii.
+	i. Sisätilapaikannuksen käyttötapaukset: 
+		-Kirjojen lainaus kirjastosta automaattisesti
+	ii. 
 	iii.
