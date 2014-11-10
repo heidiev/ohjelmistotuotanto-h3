@@ -4,3 +4,4 @@
 	ii. 
 		-Voi lainata kirjoja ilman kirjastokorttia tai erillistä lainaustapahtumaa. Kaikille koulussa asioiville.
 	iii.
+		-Ruudulla näkyy "laina onnistui" teksti
