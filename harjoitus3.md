@@ -13,3 +13,5 @@ ii) Mitkä ovat järjestelmän keskeiset käyttötapaukset?
 
 
 iii) Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy?
+
+- koulun pohjapiirros ylhäältä kuvattuna
