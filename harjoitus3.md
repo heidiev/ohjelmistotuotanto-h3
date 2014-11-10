@@ -1,17 +1,17 @@
 5.
 
-i) Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
+i) Kuinka sisÃ¤tilapaikannusta voisi hyÃ¶dyntÃ¤Ã¤ Metropolian LeppÃ¤vaaran kampuksella?
 
-- viihdyttävänä ajanvietteenä
+- viihdyttÃ¤vÃ¤nÃ¤ ajanvietteenÃ¤
 - opettavaisena kokemuksena
 
-ii) Mitkä ovat järjestelmän keskeiset käyttötapaukset?
+ii) MitkÃ¤ ovat jÃ¤rjestelmÃ¤n keskeiset kÃ¤yttÃ¶tapaukset?
 
-- uudet opiskelijat oppivat tuntemaan kouluympäristön
-- vanhat opiskelija viettää vapaa-aikaansa
-- opettaja haluaa löytää tietyn paikan sijainnin nopeasti
+- uudet opiskelijat oppivat tuntemaan kouluympÃ¤ristÃ¶n
+- vanhat opiskelijat viettÃ¤vÃ¤t vapaa-aikaansa
+- opettaja haluaa lÃ¶ytÃ¤Ã¤ tietyn paikan sijainnin nopeasti
 
 
-iii) Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy?
+iii) Listaa jokaiseen kÃ¤yttÃ¶tapaukseen liittyen mitÃ¤ ruudulla nÃ¤kyy?
 
-- koulun pohjapiirros ylhäältä kuvattuna
+- koulun pohjapiirros ylhÃ¤Ã¤ltÃ¤ kuvattuna
